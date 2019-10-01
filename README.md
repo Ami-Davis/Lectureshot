@@ -23,4 +23,5 @@ Gain
 
 
 APK Download link 
-https://frama.link/lectureshot
+
+https://www.dropbox.com/s/ao9qb3jzcw3l89n/lectureshot.apk?dl=0
